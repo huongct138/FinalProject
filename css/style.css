@@ -42,6 +42,7 @@ nav ul {
   border-right: 5px solid darkgrey;
   border-bottom: 5px solid darkgrey;
   background-color: green;
+  color: white;
 }
 
 li a {
