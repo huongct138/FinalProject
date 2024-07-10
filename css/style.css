@@ -41,7 +41,7 @@ nav ul {
 .nav-item:hover {
   border-right: 5px solid darkgrey;
   border-bottom: 5px solid darkgrey;
-  background-color: lightseagreen;
+  background-color: green;
 }
 
 li a {
